@@ -1,0 +1,16 @@
+PODS:
+  - KakaJSON (1.1.2)
+
+DEPENDENCIES:
+  - KakaJSON (~> 1.1.2)
+
+SPEC REPOS:
+  trunk:
+    - KakaJSON
+
+SPEC CHECKSUMS:
+  KakaJSON: cc5ff50a8c1cfbb09413db8496cb709a209e6137
+
+PODFILE CHECKSUM: b3cfda5cf43a2ef5deb4ed8fa3540ac70a73604a
+
+COCOAPODS: 1.9.1
